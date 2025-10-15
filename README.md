@@ -1,1 +1,3 @@
 # X-ray-VGG16
+✅ Framework: TensorFlow / Keras
+✅ Dataset: https://www.kaggle.com/datasets/muhammadrehan00/chest-xray-dataset
